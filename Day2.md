@@ -205,11 +205,3 @@ Build → Ship → Run
 
 ---
 
-## 📎 Reference
-Source: Lecture Notes (INT332)
-
----
-
-## 📌 Next Step
-➡️ Add Day 3 notes as `Day3.md`  
-➡️ Maintain daily logs in your GitHub repo  
